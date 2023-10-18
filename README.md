@@ -1,1 +1,1 @@
-# testscript test
+TEST
